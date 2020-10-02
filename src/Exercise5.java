@@ -1,3 +1,5 @@
+package src;
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 import static java.lang.Math.PI;
